@@ -24,3 +24,6 @@ gcc main.c cartas.c -o supertrunfo
 
 - Compilador C (ex: GCC)
 - Terminal Linux/macOS ou CMD/PowerShell (Windows)
+
+- Autor: Felipe Dutra Musskopf
+  
